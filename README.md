@@ -1,2 +1,2 @@
-# LoinO360Logger
-LoinO360
+# LoinO3Logger
+LoinO3
